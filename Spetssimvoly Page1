@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="D3D3D3">
+<h1 align="center"><font size="40" color=black>Таблица символов</font></h1>
+<table border="0" width="90%" align="center">
+    <tr>
+        <th bgcolor="D3D3D3"><table border="1">
+        <tr>
+            <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#8258;</font></h1></th>
+            <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#8258;</font></h3></th>
+        </tr>
+        <tr>
+            <th <th bgcolor="B0C4DE" width="40%" align="left"><h1><font size="20" color="black">&#9992;</font></h1></th>
+            <th <th bgcolor="B0C4DE"><h3><font color="black">Этот код &amp;#9992;</font></h3></th>
+
+        </tr>
+        <tr>
+            <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#9775;</font></h1></th>
+            <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#9775;</font></h3></th>
+        </tr>
+        <tr>
+            <th <th bgcolor="B0C4DE" width="40%" align="left"><h1><font size="20" color="black">&#9760;</font></h1></th>
+            <th <th bgcolor="B0C4DE"><h3><font color="black">Этот код &amp;#9760;</font></h3></th>
+        </tr>
+        <tr>
+            <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#8730;</font></h1></th>
+            <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#8730;</font></h3></th>
+        </tr>
+        </table>
+        </th>
+            <th bgcolor="D3D3D3"><table border="1" align="center">
+            <tr>
+                <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#8734;</font></h1></th>
+                <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#8734;</font></h3></th>
+            </tr>
+            <tr>
+                <th <th bgcolor="B0C4DE" width="40%" align="left"><h1><font size="20" color="black">&#937;</font></h1></th>
+                <th <th bgcolor="B0C4DE"><h3><font color="black">Этот код &amp;#937;</font></h3></th>
+    
+            </tr>
+            <tr>
+                <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#8712;</font></h1></th>
+                <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#8712;</font></h3></th>
+            </tr>
+            <tr>
+                <th <th bgcolor="B0C4DE" width="40%" align="left"><h1><font size="20" color="black">&#8800;</font></h1></th>
+                <th <th bgcolor="B0C4DE"><h3><font color="black">Этот код &amp;#8800;</font></h3></th>
+            </tr>
+            <tr>
+                <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#8721;</font></h1></th>
+                <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#8721;</font></h3></th>
+        </table>
+        <th bgcolor="D3D3D3"><table border="1" align="right">
+        <tr>
+            <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#916;</font></h1></th>
+            <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#916;</font></h3></th>
+        </tr>
+        <tr>
+            <th <th bgcolor="B0C4DE" width="40%" align="left"><h1><font size="20" color="black">&#190;</font></h1></th>
+            <th <th bgcolor="B0C4DE"><h3><font color="black">Этот код &amp;#190;</font></h3></th>
+
+        </tr>
+        <tr>
+            <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#181;</font></h1></th>
+            <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#181;</font></h3></th>
+        </tr>
+        <tr>
+            <th <th bgcolor="B0C4DE" width="40%" align="left"><h1><font size="20" color="black">&#177;</font></h1></th>
+            <th <th bgcolor="B0C4DE"><h3><font color="black">Этот код &amp;#177;</font></h3></th>
+        </tr>
+        <tr>
+            <th bgcolor="A9A9A9" width="40%" align="left"><h1><font size="20" color="black">&#8764;</font></h1></th>
+            <th bgcolor="A9A9A9"><h3><font color="black">Это код &amp;#8764;</font></h3></th>
+        </table>
+        </th>
+    </tr>
+    </table>
+</table>
+<a href="file:///C:/Users/home-pc/Desktop/PZ-1/%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8B2.html" target="_blank"><h2 align="center"><font color="violet">перейти к формулам</font></h2></a>
+</body>
+</html>
